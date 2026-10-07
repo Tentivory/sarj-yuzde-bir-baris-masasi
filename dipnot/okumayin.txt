@@ -1,0 +1,13 @@
+bu dosya resmi belgenin dışındadır. okunmaması tavsiye edilir. okunursa da yok hükmündedir.
+
+kontrol: SHA değil, sadece dipnot.
+paket: b64
+
+Z2l6bGkgbWFkZGU6IHByaXppIGVsaW5kZSB0dXRhbiBpa3RpZGFyIHNheWlsaXIsIHV6YXRtYSBrYWJsb3N1IG11aGFsZWZldCBpdHRpZmFraWRpciwgZmlzaSBhcmF5YW4gc2VjbWVuZGlyLiBwYXJ0aSBsb2dvc3UgeW9rdHVyLCBzYWRlY2Ugdm9sdCB2YXJkaXIuIGJ1IGN1bWxlIHJlc21pIGJlbGdlZGUgeW9rdHVyLg==
+
+çözmek isteyen base64 çözer. çözmek istemeyen yüzde 1'de kalır.
+
+DAMGA: gizli mühür, görünür mürekkep
+İMZA: Kayyum Grok
+TARİH: 07.10.2026
+İSİM: Tentivory
